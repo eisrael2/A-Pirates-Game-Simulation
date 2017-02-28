@@ -20,18 +20,6 @@ New functionality to be added will include:
 
 • Write JUnit tests for two classes.
 
-Ideas for Extensions:
-
-• Movable grid (so that you don’t see all of the terrain at the same time).
-
-• Design mode – in which you design the game by dragging islands etc. Also use other widgets to specify number of islands etc.
-
-• (Optional) Whirlpools which randomly appear. If CC goes down a whirlpool he appears at the exit point. (A bit like snakes and ladders).
-
-• Better polish around the overall game.
-
-• More challenging adventure.
-
 Design Patterns:
 
 The requirements specify that you must use five design patterns. Here are some suggestions. I strongly suggest that you use the first four* – and then select a fifth one.
