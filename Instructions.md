@@ -2,8 +2,8 @@
 
 Second Assignment In Object Oriented Software Design
 
-Objective: This project option builds upon the work you have done in Homework 2 and 3. It provides a slightly more guided approach to completing the project than the options discussed in class.
-Starting Point: Fully working Christopher Columbus solution from Homework 2.
+Objective: This project option builds upon various programming concepts. It provides a slightly more guided approach to completing the project.
+
 New functionality to be added will include:
 
 • A larger grid.
